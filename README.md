@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Bavergny32
-- 👀 I’m interested in software
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m Baver_Gunay
+-  I’m interested in software
+-  I'm learning c#, java, python
+-  I am a computer programming graduate
+- You can reach me on my 
+  bavergny@gmail.com gmail account
 
 <!---
 Bavergny32/Bavergny32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
